@@ -30,7 +30,27 @@
   <img width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
 </div>
 
+## 💻 Projects
+
+**View all my projects in my portfolio:** [Portfolio Website](https://amitech-portfolio.netlify.app/)
+
+---
+
+### [My Portfolio](https://github.com/Amit-Bruhim/My_Portfolio)
+![Portfolio](public/images/portfolio%20thumbnail.png)
+> Personal website showcasing my projects, skills, and experience. Built with HTML, CSS, and JavaScript.
+
+---
+
+### [Intro to CS](https://github.com/Amit-Bruhim/Intro-to-CS)
+![Intro to CS](public/images/Intro%20To%20CS.png)
+> Combined repository of exercises and mini-projects in C and Python, featuring loops, recursion, games, and a Wordle clone.
+
+---
+
 ## 📫 Contact Me
 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/amit-bruhim)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg' alt='Email' height='40'>](mailto:amitbruhim33@gmail.com)
+
+---
