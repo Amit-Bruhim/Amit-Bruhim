@@ -34,9 +34,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/amit-bruhim" target="_blank">
-    <img width="40px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-  </a>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="border:0;" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:amitbruhim33@gmail.com">
-    <img width="40px" style="margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" style="border:0;" />
   </a>
 </div>
+
