@@ -28,5 +28,15 @@
   <img width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   <img width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+</div>
 
+## 📫 Contact Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/amit-bruhim" target="_blank">
+    <img width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amitbruhim33@gmail.com">
+    <img width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" />
+  </a>
 </div>
