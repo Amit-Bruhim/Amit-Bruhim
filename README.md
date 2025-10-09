@@ -32,12 +32,5 @@
 
 ## 📫 Contact Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/amit-bruhim" target="_blank" style="text-decoration:none;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:amitbruhim33@gmail.com" style="text-decoration:none;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" />
-  </a>
-</div>
-
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/amit-bruhim)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg' alt='Email' height='40'>](mailto:amitbruhim33@gmail.com)
