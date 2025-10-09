@@ -30,6 +30,8 @@
   <img width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
 </div>
 
+---
+
 ## 💻 Projects
 
 **View all my projects in my portfolio:** [Portfolio Website](https://amitech-portfolio.netlify.app/)
