@@ -48,14 +48,13 @@
 
 ---
 
-### [Logic Expressions](https://github.com/Amit-Bruhim/Intro-to-CS)
-> Combined repository of exercises and mini-projects in C and Python, featuring loops, recursion, games, and a Wordle clone.
+### [Logic Expressions](https://github.com/Amit-Bruhim/Logic-Expressions)
+> A simple Java project for creating, manipulating, and evaluating logical expressions.
 
 ---
 
-### [My Portfolio](https://github.com/Amit-Bruhim/Logic-Expressions)
-> A simple Java project for creating, manipulating, and evaluating logical expressions.
-
+### [My Portfolio](https://github.com/Amit-Bruhim/My_Portfolio)
+> Personal website showcasing my projects, skills, and experience. Built with HTML, CSS, and JavaScript.
 ---
 
 ## 📫 Contact Me
