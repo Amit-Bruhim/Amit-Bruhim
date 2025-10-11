@@ -38,13 +38,23 @@
 
 ---
 
-### [My Portfolio](https://github.com/Amit-Bruhim/My_Portfolio)
-> Personal website showcasing my projects, skills, and experience. Built with HTML, CSS, and JavaScript.
+### [Arkanoid Game](https://github.com/Amit-Bruhim/Arkanoid)
+> A classic brick-breaker game implemented in Java.
 
 ---
 
 ### [Intro to CS](https://github.com/Amit-Bruhim/Intro-to-CS)
 > Combined repository of exercises and mini-projects in C and Python, featuring loops, recursion, games, and a Wordle clone.
+
+---
+
+### [Logic Expressions](https://github.com/Amit-Bruhim/Intro-to-CS)
+> Combined repository of exercises and mini-projects in C and Python, featuring loops, recursion, games, and a Wordle clone.
+
+---
+
+### [My Portfolio](https://github.com/Amit-Bruhim/Logic-Expressions)
+> A simple Java project for creating, manipulating, and evaluating logical expressions.
 
 ---
 
