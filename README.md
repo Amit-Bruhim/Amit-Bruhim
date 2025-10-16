@@ -48,6 +48,11 @@
 
 ---
 
+### [COVID-19 Analytics](https://github.com/Amit-Bruhim/covid19-analytics)
+> SQL-based data analytics project that explores global COVID-19 datasets to uncover insights through complex queries and visual outputs.
+
+---
+
 ### [Logic Expressions](https://github.com/Amit-Bruhim/Logic-Expressions)
 > A simple Java project for creating, manipulating, and evaluating logical expressions.
 
