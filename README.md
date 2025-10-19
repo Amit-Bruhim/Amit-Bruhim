@@ -34,32 +34,32 @@
 
 ## 💻 Projects
 
-**View all my projects in my portfolio:** [Portfolio Website](https://amitech-portfolio.netlify.app/)
+**View all my projects in my portfolio:** [Portfolio Website](https://amitech-portfolio.netlify.app/) 🌐
 
 ---
 
-### [Arkanoid Game](https://github.com/Amit-Bruhim/Arkanoid)
-> A classic brick-breaker game implemented in Java.
+### [Arkanoid Game](https://github.com/Amit-Bruhim/Arkanoid) 🎮
+> 🕹️ A classic brick-breaker game implemented in Java.
 
 ---
 
-### [Intro to CS](https://github.com/Amit-Bruhim/Intro-to-CS)
-> Combined repository of exercises and mini-projects in C and Python, featuring loops, recursion, games, and a Wordle clone.
+### [Intro to CS](https://github.com/Amit-Bruhim/Intro-to-CS) 💻
+> 📝 Combined repository of exercises and mini-projects in C and Python, featuring loops, recursion, games, and a Wordle clone.
 
 ---
 
-### [COVID-19 Analytics](https://github.com/Amit-Bruhim/covid19-analytics)
-> SQL-based data analytics project that explores global COVID-19 datasets to uncover insights through complex queries and visual outputs.
+### [COVID-19 Analytics](https://github.com/Amit-Bruhim/covid19-analytics) 🧬
+> 📊 SQL-based data analytics project that explores global COVID-19 datasets to uncover insights through complex queries and visual outputs.
 
 ---
 
-### [Logic Expressions](https://github.com/Amit-Bruhim/Logic-Expressions)
-> A simple Java project for creating, manipulating, and evaluating logical expressions.
+### [Logic Expressions](https://github.com/Amit-Bruhim/Logic-Expressions) 🤖
+> 💡 A simple Java project for creating, manipulating, and evaluating logical expressions.
 
 ---
 
-### [My Portfolio](https://github.com/Amit-Bruhim/My_Portfolio)
-> Personal website showcasing my projects, skills, and experience. Built with HTML, CSS, and JavaScript.
+### [My Portfolio](https://github.com/Amit-Bruhim/My_Portfolio) 💼
+> 🌐 Personal website showcasing my projects, skills, and experience. Built with HTML, CSS, and JavaScript.
 ---
 
 ## 📫 Contact Me
