@@ -43,6 +43,12 @@
 
 ---
 
+### [Sokoban AI Solver](https://github.com/Amit-Bruhim/Sokoban) 🕹️
+> 🤖 Sokoban solver featuring pathfinding algorithms (A, GBFS) and MDP-based decision making under uncertainty.
+Implemented in Python with custom heuristic optimization for complex puzzle configurations.
+
+---
+
 ### [Arkanoid Game](https://github.com/Amit-Bruhim/Arkanoid) 🎮
 > 🕹️ A classic brick-breaker game implemented in Java.
 
